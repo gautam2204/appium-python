@@ -15,3 +15,4 @@ def test_launchGoogleChrome():
     print(driver.title)
     time.sleep(3)
     driver.quit()
+    

@@ -2,8 +2,7 @@
     "files.autoSave": "afterDelay",
     "python.testing.pytestArgs": [
          ".",
-         "--capture=tee-sys",
-         "log_cli=true"
+         "--capture=tee-sys"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
